@@ -53,35 +53,13 @@ a:focus-visible {
 .brand {
   display: inline-flex;
   align-items: center;
-  gap: 11px;
-  color: #263a30;
   text-decoration: none;
-  font-family: "Manrope", sans-serif;
-  font-weight: 800;
-  font-size: 19px;
-  letter-spacing: -0.8px;
 }
 
-.brand-mark {
-  width: 26px;
-  height: 26px;
-  padding: 5px;
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 3px;
-  border-radius: 8px;
-  background: #e6ede5;
-  transform: rotate(-4deg);
-}
-
-.brand-mark span {
-  border-radius: 2px;
-  background: #416a51;
-}
-
-.brand-mark span:nth-child(2),
-.brand-mark span:nth-child(3) {
-  opacity: 0.48;
+.brand-logo {
+  display: block;
+  width: 124px;
+  height: 32px;
 }
 
 .topbar-note {

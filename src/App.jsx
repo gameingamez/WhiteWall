@@ -79,13 +79,7 @@ function App() {
     <main className="page-shell">
       <header className="topbar">
         <a className="brand" href="#" aria-label="WhiteWall home">
-          <span className="brand-mark" aria-hidden="true">
-            <span />
-            <span />
-            <span />
-            <span />
-          </span>
-          <span>whitewall</span>
+          <img className="brand-logo" src="/whitewall-logo.svg" alt="" />
         </a>
         <span className="topbar-note">
           <span className="status-dot" />

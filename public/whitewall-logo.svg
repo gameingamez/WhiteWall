@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="124" height="32" viewBox="0 0 124 32" fill="none">
+  <g transform="rotate(-4 13 13)">
+    <rect width="26" height="26" rx="8" fill="#E6EDE5"/>
+    <rect x="5" y="5" width="6.5" height="6.5" rx="2" fill="#416A51"/>
+    <rect x="14.5" y="5" width="6.5" height="6.5" rx="2" fill="#416A51" opacity=".48"/>
+    <rect x="5" y="14.5" width="6.5" height="6.5" rx="2" fill="#416A51" opacity=".48"/>
+    <rect x="14.5" y="14.5" width="6.5" height="6.5" rx="2" fill="#416A51"/>
+  </g>
+  <text x="37" y="21.5" fill="#263A30" font-family="Manrope, 'Arial', sans-serif" font-size="18" font-weight="800" letter-spacing="-.8">whitewall</text>
+</svg>
